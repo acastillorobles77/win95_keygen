@@ -1,2 +1,2 @@
 # Windows 95 Key generator
-A simple Windows 95 OEM key generator, written in Python. I haven't tested this script yet so you can test it and report if it works or not.
+A simple Windows 95 OEM key generator, written in Python. When I tested this script I noticed that this script can generate sometimes invalid keys, but most of the times it will generate valid keys.
