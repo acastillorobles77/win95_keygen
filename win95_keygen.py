@@ -3,7 +3,7 @@
 import argparse
 import random
 
-parser = argparse.ArgumentParser(description='Windows 95 key generator')
+parser = argparse.ArgumentParser(description='Windows 95 OEM key generator')
 parser.add_argument('amount_of_keys_to_generate', type=int, help='The desired number of keys to generate')
 args = parser.parse_args()
 
